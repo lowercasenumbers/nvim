@@ -20,3 +20,7 @@ vim.opt.signcolumn = "yes"
 vim.opt.spelllang = 'en_us'
 vim.opt.spell = true
 ---vim.opt.colorcolumn = "80"
+---
+vim.opt.tabstop=2
+vim.opt.shiftwidth=2
+vim.opt.expandtab=true
